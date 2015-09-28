@@ -1,0 +1,7 @@
+C:\Repositories\Tests\Tests\bin\Debug\Tests.dll
+C:\Repositories\Tests\Tests\bin\Debug\Tests.pdb
+C:\Repositories\Tests\Tests\bin\Debug\nunit.framework.dll
+C:\Repositories\Tests\Tests\bin\Debug\nunit.framework.xml
+C:\Repositories\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Repositories\Tests\Tests\obj\Debug\Tests.dll
+C:\Repositories\Tests\Tests\obj\Debug\Tests.pdb
