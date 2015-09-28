@@ -8,6 +8,7 @@ using NUnit.Framework;
 
 namespace Tests
 {
+    //test
     [TestFixture]
     [Category("Test")]
     public class Class1
